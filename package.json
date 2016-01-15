@@ -19,6 +19,8 @@
     "graphite": "~0.0.6",
     "ip": "~0.3.2",
     "json-stream": "~0.2.2",
+    "mosca": "^0.32.1",
+    "mqtt": "^1.6.3",
     "node-uuid": "~1.4.1",
     "readable-stream": "~1.0.33",
     "redis": "~0.12.1",
